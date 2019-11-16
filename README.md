@@ -35,6 +35,10 @@ Vejo muitas pessoas que tiveram diversos problemas de saude apos começar na are
 - [Desenvolvedores FullStack e Unicórnios existem?](https://github.com/frontendbr/forum/issues/506)
 - [Carreira de Front-End Júnior em crise? ](https://github.com/frontendbr/forum/issues/222)
 
+## Twittes
+
+
+![Twitte falando sobre cuidar da saude](https://raw.githubusercontent.com/enieber/saude/master/dev-health-0.png)
 
 ## Licença
 
